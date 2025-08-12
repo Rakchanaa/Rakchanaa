@@ -1,4 +1,4 @@
-<img src="Purple Watercolor Background Linkedin Background Photo.png" alt="Rakchanaa Banner" width="100%" />
+<img src="rakchanaabg.png" alt="Rakchanaa Banner" width="100%" />
 
 <h1 align="center">Hey there! I'm Rakchanaa 👋</h1>
 <p align="center">
